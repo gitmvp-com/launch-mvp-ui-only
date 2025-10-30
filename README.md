@@ -164,7 +164,7 @@ That's it! Your app is live.
 The app is a standard Next.js application and works on:
 - **Netlify** - With Next.js adapter
 - **Railway** - Zero config
-- **Render** - Simple deployment
+## Notes
 - **Any Node.js host** - Using `npm start`
 
 ## 📝 Notes
