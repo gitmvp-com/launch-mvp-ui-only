@@ -177,7 +177,7 @@ That's it! Your app is live.
 ## 🔗 Related Projects
 
 - **[launch-mvp-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase)** - Full-stack version with Stripe & Supabase
-
+## Next Steps
 ## 📄 License
 
 MIT License - feel free to use this project for anything you want.
