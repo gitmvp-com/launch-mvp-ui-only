@@ -41,7 +41,7 @@ yarn install
 ```
 
 3. **Run the development server**
-
+## Project Structure
 ```bash
 npm run dev
 # or
