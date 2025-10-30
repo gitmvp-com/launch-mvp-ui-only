@@ -188,7 +188,7 @@ If you have questions or issues:
 
 1. Check the [GitHub Issues](https://github.com/gitmvp-com/launch-mvp-ui-only/issues)
 2. Create a new issue with details
-3. Check existing documentation
+## Next Steps
 
 ## 🎯 Next Steps
 
