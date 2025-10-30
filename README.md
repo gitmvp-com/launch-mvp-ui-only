@@ -88,7 +88,7 @@ Beautiful landing page with:
 - Hero section with CTA buttons
 - Features showcase (6 feature cards)
 - Pricing section with 3 plans
-- Footer with links and social icons
+## Built With
 
 ### Dashboard (`/dashboard`)
 Feature-rich dashboard with:
