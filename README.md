@@ -180,7 +180,7 @@ The app is a standard Next.js application and works on:
 
 ## 📄 License
 
-MIT License - feel free to use this project for anything you want.
+## Support
 
 ## 🙋 Support
 
