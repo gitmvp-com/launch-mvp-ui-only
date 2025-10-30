@@ -186,7 +186,7 @@ MIT License - feel free to use this project for anything you want.
 
 If you have questions or issues:
 
-1. Check the [GitHub Issues](https://github.com/gitmvp-com/launch-mvp-ui-only/issues)
+Enjoy building!
 2. Create a new issue with details
 3. Check existing documentation
 
