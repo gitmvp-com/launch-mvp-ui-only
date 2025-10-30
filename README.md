@@ -62,7 +62,7 @@ Navigate to [http://localhost:3000](http://localhost:3000) to see the applicatio
 │   ├── page.tsx          # Home page
 │   └── globals.css       # Global styles
 ├── components/
-│   ├── TopBar.tsx        # Navigation bar
+## Pages
 │   ├── HeroSection.tsx   # Landing page hero
 │   ├── FeaturesSection.tsx # Features showcase
 │   ├── PricingSection.tsx # Pricing plans
