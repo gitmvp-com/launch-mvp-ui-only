@@ -4,19 +4,19 @@ A modern, beautiful Next.js MVP with UI-only features - no backend integrations.
 
 **Live Demo:** [View on GitHub](https://github.com/gitmvp-com/launch-mvp-ui-only)
 
-## Features
+## ✨ Features
 
-- **Beautiful UI Components** - Crafted with Tailwind CSS
-- **Dark Mode Support** - Automatic theme switching
-- **Fully Responsive** - Works on all devices
-- **Modern Animations** - Built with Framer Motion
-- **Professional Design** - Clean, modern aesthetics
-- **Next.js 15** - Latest version with App Router
-- **Dashboard UI** - Mock data and metrics
-- **Profile Management** - User profile interface
-- **Pricing Page** - Beautiful pricing section
+- 🎨 **Beautiful UI Components** - Crafted with Tailwind CSS
+- 🌓 **Dark Mode Support** - Automatic theme switching
+- 📱 **Fully Responsive** - Works on all devices
+- ⚡ **Modern Animations** - Built with Framer Motion
+- 💅 **Professional Design** - Clean, modern aesthetics
+- 🚀 **Next.js 15** - Latest version with App Router
+- 📊 **Dashboard UI** - Mock data and metrics
+- 👤 **Profile Management** - User profile interface
+- 💰 **Pricing Page** - Beautiful pricing section
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -40,7 +40,7 @@ npm install
 yarn install
 ```
 
-## Project Structure
+3. **Run the development server**
 
 ```bash
 npm run dev
@@ -62,7 +62,7 @@ Navigate to [http://localhost:3000](http://localhost:3000) to see the applicatio
 │   ├── page.tsx          # Home page
 │   └── globals.css       # Global styles
 ├── components/
-## Pages
+│   ├── TopBar.tsx        # Navigation bar
 │   ├── HeroSection.tsx   # Landing page hero
 │   ├── FeaturesSection.tsx # Features showcase
 │   ├── PricingSection.tsx # Pricing plans
@@ -88,7 +88,7 @@ Beautiful landing page with:
 - Hero section with CTA buttons
 - Features showcase (6 feature cards)
 - Pricing section with 3 plans
-## Built With
+- Footer with links and social icons
 
 ### Dashboard (`/dashboard`)
 Feature-rich dashboard with:
@@ -98,7 +98,7 @@ Feature-rich dashboard with:
 - Quick actions panel
 
 ### Profile (`/profile`)
-## Customization
+User profile management with:
 - Profile card with avatar
 - Personal information form
 - Security & Privacy settings
@@ -130,7 +130,7 @@ colors: {
 
 ### Mock Data
 
-## Available Scripts
+All mock data is in `utils/mockData.ts`. Edit it to customize:
 - User information
 - Subscription details
 - Pricing plans
@@ -138,7 +138,7 @@ colors: {
 - Dashboard metrics
 
 ### Theme
-## Deployment
+
 The app uses automatic dark mode detection. Toggle it manually in the TopBar or it respects system preferences.
 
 ## 📦 Available Scripts
@@ -164,7 +164,7 @@ That's it! Your app is live.
 The app is a standard Next.js application and works on:
 - **Netlify** - With Next.js adapter
 - **Railway** - Zero config
-## Notes
+- **Render** - Simple deployment
 - **Any Node.js host** - Using `npm start`
 
 ## 📝 Notes
@@ -172,15 +172,15 @@ The app is a standard Next.js application and works on:
 - This is a **UI-only demo** - no backend or database
 - All data is mock data for demonstration
 - Perfect for portfolios and showcasing design skills
-## Related Projects
+- Can be extended with real backend services
 
 ## 🔗 Related Projects
 
-## License
+- **[launch-mvp-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase)** - Full-stack version with Stripe & Supabase
 
 ## 📄 License
 
-## Support
+MIT License - feel free to use this project for anything you want.
 
 ## 🙋 Support
 
@@ -188,7 +188,7 @@ If you have questions or issues:
 
 1. Check the [GitHub Issues](https://github.com/gitmvp-com/launch-mvp-ui-only/issues)
 2. Create a new issue with details
-## Next Steps
+3. Check existing documentation
 
 ## 🎯 Next Steps
 
@@ -199,5 +199,5 @@ Want to extend this project?
 - Add a backend API
 - Connect to a database
 - Deploy to production
-Enjoy building!
+
 Enjoy building! 🚀
