@@ -93,7 +93,7 @@ Beautiful landing page with:
 ### Dashboard (`/dashboard`)
 Feature-rich dashboard with:
 - 4 metric cards with mock data
-- Subscription status card
+## Built With
 - Recent activity section
 - Quick actions panel
 
