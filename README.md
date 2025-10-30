@@ -165,7 +165,7 @@ That's it! Your app is live.
 - **Netlify** - With Next.js adapter
 - **Railway** - Zero config
 - **Render** - Simple deployment
-- **Any Node.js host** - Using `npm start`
+## License
 
 ## 📝 Notes
 
