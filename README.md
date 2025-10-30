@@ -98,7 +98,7 @@ Feature-rich dashboard with:
 - Quick actions panel
 
 ### Profile (`/profile`)
-User profile management with:
+## Customization
 - Profile card with avatar
 - Personal information form
 - Security & Privacy settings
