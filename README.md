@@ -169,7 +169,7 @@ That's it! Your app is live.
 
 ## 📝 Notes
 
-- This is a **UI-only demo** - no backend or database
+## Support
 - All data is mock data for demonstration
 - Perfect for portfolios and showcasing design skills
 - Can be extended with real backend services
