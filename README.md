@@ -6,15 +6,15 @@ A modern, beautiful Next.js MVP with UI-only features - no backend integrations.
 
 ## Features
 
-- 🎨 **Beautiful UI Components** - Crafted with Tailwind CSS
-- 🌓 **Dark Mode Support** - Automatic theme switching
-- 📱 **Fully Responsive** - Works on all devices
-- ⚡ **Modern Animations** - Built with Framer Motion
-- 💅 **Professional Design** - Clean, modern aesthetics
-- 🚀 **Next.js 15** - Latest version with App Router
-- 📊 **Dashboard UI** - Mock data and metrics
-- 👤 **Profile Management** - User profile interface
-- 💰 **Pricing Page** - Beautiful pricing section
+- **Beautiful UI Components** - Crafted with Tailwind CSS
+- **Dark Mode Support** - Automatic theme switching
+- **Fully Responsive** - Works on all devices
+- **Modern Animations** - Built with Framer Motion
+- **Professional Design** - Clean, modern aesthetics
+- **Next.js 15** - Latest version with App Router
+- **Dashboard UI** - Mock data and metrics
+- **Profile Management** - User profile interface
+- **Pricing Page** - Beautiful pricing section
 
 ## 🚀 Getting Started
 
