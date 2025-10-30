@@ -154,7 +154,7 @@ The app uses automatic dark mode detection. Toggle it manually in the TopBar or 
 
 1. Push to GitHub
 2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
+## Notes
 4. Click Deploy
 
 That's it! Your app is live.
