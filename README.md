@@ -176,7 +176,7 @@ The app is a standard Next.js application and works on:
 
 ## 🔗 Related Projects
 
-- **[launch-mvp-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase)** - Full-stack version with Stripe & Supabase
+## License
 
 ## 📄 License
 
