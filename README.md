@@ -161,7 +161,7 @@ That's it! Your app is live.
 
 ### Deploy to Other Platforms
 
-The app is a standard Next.js application and works on:
+## Related Projects
 - **Netlify** - With Next.js adapter
 - **Railway** - Zero config
 - **Render** - Simple deployment
