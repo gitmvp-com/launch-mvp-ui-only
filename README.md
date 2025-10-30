@@ -130,7 +130,7 @@ colors: {
 
 ### Mock Data
 
-All mock data is in `utils/mockData.ts`. Edit it to customize:
+## Available Scripts
 - User information
 - Subscription details
 - Pricing plans
