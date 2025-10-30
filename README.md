@@ -16,7 +16,7 @@ A modern, beautiful Next.js MVP with UI-only features - no backend integrations.
 - **Profile Management** - User profile interface
 - **Pricing Page** - Beautiful pricing section
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
