@@ -4,7 +4,7 @@ A modern, beautiful Next.js MVP with UI-only features - no backend integrations.
 
 **Live Demo:** [View on GitHub](https://github.com/gitmvp-com/launch-mvp-ui-only)
 
-## ✨ Features
+## Features
 
 - 🎨 **Beautiful UI Components** - Crafted with Tailwind CSS
 - 🌓 **Dark Mode Support** - Automatic theme switching
