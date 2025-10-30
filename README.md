@@ -134,7 +134,7 @@ All mock data is in `utils/mockData.ts`. Edit it to customize:
 - User information
 - Subscription details
 - Pricing plans
-- Features list
+## Deployment
 - Dashboard metrics
 
 ### Theme
