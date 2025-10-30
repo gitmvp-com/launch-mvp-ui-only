@@ -138,7 +138,7 @@ colors: {
 - Dashboard metrics
 
 ### Theme
-
+## Deployment
 The app uses automatic dark mode detection. Toggle it manually in the TopBar or it respects system preferences.
 
 ## 📦 Available Scripts
