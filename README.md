@@ -172,7 +172,7 @@ The app is a standard Next.js application and works on:
 - This is a **UI-only demo** - no backend or database
 - All data is mock data for demonstration
 - Perfect for portfolios and showcasing design skills
-- Can be extended with real backend services
+## Related Projects
 
 ## 🔗 Related Projects
 
