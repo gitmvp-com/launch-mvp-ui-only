@@ -68,7 +68,7 @@ Navigate to [http://localhost:3000](http://localhost:3000) to see the applicatio
 │   ├── PricingSection.tsx # Pricing plans
 │   ├── Footer.tsx        # Footer
 │   ├── DashboardMetric.tsx # Metric card component
-│   ├── SubscriptionStatus.tsx # Subscription card
+## Pages
 │   ├── ProfileCard.tsx   # User profile card
 │   ├── AccountManagement.tsx # Account settings
 │   └── LoadingSpinner.tsx # Loading indicator
