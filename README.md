@@ -104,7 +104,7 @@ User profile management with:
 - Security & Privacy settings
 - Account management options
 
-## 🛠️ Built With
+## Customization
 
 - **[Next.js 15](https://nextjs.org/)** - React framework
 - **[React 19](https://react.dev/)** - UI library
