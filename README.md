@@ -127,7 +127,7 @@ colors: {
   accent: "#ec4899",
 }
 ```
-
+## Available Scripts
 ### Mock Data
 
 All mock data is in `utils/mockData.ts`. Edit it to customize:
